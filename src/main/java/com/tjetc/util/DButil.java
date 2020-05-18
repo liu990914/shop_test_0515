@@ -12,7 +12,7 @@ import java.util.Properties;
 
 
 //链接数据类型
-public class DButil {
+public class DButil extends Object{
 	private static String driver;
 	private static String url;
 	private static String username;
